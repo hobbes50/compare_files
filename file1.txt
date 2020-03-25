@@ -1,0 +1,7 @@
+une,valeur,bizarre,5050
+une,autre,valeur,31415
+stock1,50
+stock2,45
+stock3,58
+stock3,58
+encore,une,autre,valeur,31415
